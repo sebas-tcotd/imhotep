@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/fisinius"
+  publish = "dist/imhotep"
   command = "ng build"
 
 [[redirects]]
