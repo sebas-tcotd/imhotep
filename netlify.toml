@@ -1,0 +1,8 @@
+[build]
+  publish = "dist/imhotep"
+  command = "ng build"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
